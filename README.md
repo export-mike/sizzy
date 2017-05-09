@@ -28,7 +28,9 @@ Adds a Sizzy button in the Chrome toolbar, which on click opens any page directl
 
 1. Install globally
 
-```yarn global add sizzy```
+```
+yarn global add sizzy
+```
 
 2. Open it in your browser http://localhost:3033/
 
