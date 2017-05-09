@@ -70,6 +70,6 @@
     "prettier-all": "prettier --single-quote --bracket-spacing=false --write 'src/**/*.js'",
     "precommit": "lint-staged",
     "checks": "yarn flow && yarn test",
-		"prepublish": "yarn build"
+    "prepublish": "yarn build"
   }
 }
