@@ -1,0 +1,21 @@
+__tests__/*
+chrome-extension/*
+flow-typed/*
+plop-templates/*
+public/*
+src/*
+.env
+.flowconfig
+.gitignore
+plopfile.js
+
+# dependencies
+node_modules
+
+# testing
+coverage
+
+# misc
+.DS_Store
+npm-debug.log
+.idea
